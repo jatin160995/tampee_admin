@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "332220558159",
+    "firebase_url": "https://tampee-4d034.firebaseio.com",
+    "project_id": "tampee-4d034",
+    "storage_bucket": "tampee-4d034.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332220558159:android:cccb223a63559ccc84333a",
+        "android_client_info": {
+          "package_name": "com.iniz.tampee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332220558159-bobmno9poniu9gsrdpvihc3villbj6t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT7XcZIvLeaeCU_SuAqcGzfVBAR7Ifkc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332220558159-bobmno9poniu9gsrdpvihc3villbj6t4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332220558159-6pd2ojthklckr4q3kd12rtavmfckt7k5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iniz.tampee-driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332220558159:android:af6b91e7cc0bc98884333a",
+        "android_client_info": {
+          "package_name": "com.iniz.tampee_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332220558159-bobmno9poniu9gsrdpvihc3villbj6t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT7XcZIvLeaeCU_SuAqcGzfVBAR7Ifkc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332220558159-bobmno9poniu9gsrdpvihc3villbj6t4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332220558159-6pd2ojthklckr4q3kd12rtavmfckt7k5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iniz.tampee-driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332220558159:android:45e23bb02497ca6884333a",
+        "android_client_info": {
+          "package_name": "com.iniz.tampee_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332220558159-bobmno9poniu9gsrdpvihc3villbj6t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT7XcZIvLeaeCU_SuAqcGzfVBAR7Ifkc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332220558159-bobmno9poniu9gsrdpvihc3villbj6t4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332220558159-6pd2ojthklckr4q3kd12rtavmfckt7k5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iniz.tampee-driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
